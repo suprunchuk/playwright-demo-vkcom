@@ -5,11 +5,11 @@
 
 ## Скриншоты
 
-### Демо-тест #1
-![Screenshot](assets\screenshots\10-gif.gif)
+### Тест #1
+![Screenshot](assets/screenshots/10-gif.gif)
 
-### Демо-тест #2
-![Screenshot](assets\screenshots\11-gif.gif)
+### Тест #2
+![Screenshot](assets/screenshots/11-gif.gif)
 
 
 ## Локальный запуск
