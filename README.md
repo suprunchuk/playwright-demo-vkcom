@@ -1,15 +1,43 @@
 
 # Пишем автотесты для vk.com на Playwright
 
-В данной статье познакомимся с таким фреймворком как Playwright и напишем пару автотестов.
+Данный репозиторий содержит исходный код, который используется в статье `"Playwright & TypeScript: Быстрый старт в автоматизации тестирования"`.
+
+## Скриншоты
+
+### Демо-тест #1
+![Screenshot](assets\screenshots\10-gif.gif)
+
+### Демо-тест #2
+![Screenshot](assets\screenshots\11-gif.gif)
 
 
+## Локальный запуск
 
+Клонируйте данный репозиторий
+
+```bash
+git clone https://github.com/suprunchuk/playwright-demo-vkcom
+```
+Установите зависимости
+
+```bash
+cd playwright-demo-vkcom && npm i
+```
+Запустите тесты для vk.com
+
+```bash
+npx playwright test vk.spec.ts --headed
+```
+
+
+## Documentation
+
+[Playwright Docs](https://playwright.dev/docs/intro)
 
 ## License
 
 [MIT](https://github.com/suprunchuk/playwright-demo-vkcom/blob/main/LICENSE)
-
 
 
 ## Authors
